@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Instructions, demos and more, are <a href="https://github.com/osousa/livematrix">here</a>: 
 
