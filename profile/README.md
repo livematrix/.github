@@ -2,6 +2,8 @@
 
 ## Instructions, demos and more, are <a href="https://github.com/osousa/livematrix">here</a>
 
+Your star would be much appreciated 🧙
+
 <!--
 
 **Here are some ideas to get you started:**
